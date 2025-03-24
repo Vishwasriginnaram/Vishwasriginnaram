@@ -78,7 +78,3 @@
 
 🚀 **Let's connect and build something amazing!**  
 
----
-
-I've added the website links **next to your project names** to make them easy to access! 🚀  
-If you want to update any links, just replace `"https://your-link.com"` with the correct one. 😊
